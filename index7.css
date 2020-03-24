@@ -1,0 +1,22 @@
+h2{
+    font-size: 16px;
+    font-weight: normal;
+}
+#bleu{
+    background-color: blue;
+}
+#violet{
+    background-color: purple;
+}
+#rose{
+    background-color: pink;
+}
+p{
+    margin-left: 1%;
+}
+#visa{
+    margin-left: 4%;
+}
+#Mastercard{
+    margin-left: 4%;
+}
