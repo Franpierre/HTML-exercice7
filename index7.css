@@ -3,20 +3,25 @@ h2{
     font-weight: normal;
 }
 #bleu{
-    background-color: blue;
+    background-color: rgb(45, 45, 235);
 }
 #violet{
-    background-color: purple;
+    background-color: rgb(85, 2, 85);
 }
 #rose{
-    background-color: pink;
+    background-color: rgb(202, 14, 202);
 }
 p{
     margin-left: 1%;
 }
 #visa{
+    list-style: none;
     margin-left: 4%;
 }
 #Mastercard{
+    list-style: none;
     margin-left: 4%;
+}
+#code {
+    margin-top: 4%;
 }
